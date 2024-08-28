@@ -1,0 +1,7 @@
+IMPORTANTE: ANTES DE EJECUTAR! 
+
+Importar la librería "GifAnimation" que se encuentra en:
+
+Sketch> Import Library> Add Library> buscar GifAnimation> darle click en "Install"> LISTO.
+
+Ahora sí se puede ejecutar sin ningún problema de compilado.
